@@ -1,0 +1,348 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.eCommerceWebBackgroundContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width:100%;
+}
+
+.image {
+    height: 50px;
+    width: 160px;
+}
+
+.hamburger-names {
+    color: black !important;
+}
+
+.bannerpagezz {
+    width: 100%;
+    overflow-y:auto;
+    overflow-x:hidden;
+}
+
+.serviecontainers {
+    background-color: white;
+    width: 100%;
+    padding: 20px;
+}
+
+.servieimage {
+    height: 100px;
+    width: 100px;
+}
+
+.serviemainheading {
+    font-weight: bold;
+    font-size: 30px;
+    color: #183b56;
+}
+
+.serviepara {
+    color: #616c7c;
+    font-size: 20px;
+}
+
+.servieh1 {
+    color: #1f2933;
+    font-size: 25px;
+}
+
+.serviep {
+    color: #7b8794;
+    font-size: 20px;
+}
+
+.producttotal-page {
+    background-color: white;
+    width: 100%;
+    padding: 20px;
+}
+
+.productmain-heading {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.productcontainer-one {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.productcontainer-two {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.producth1 {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.productp {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.productbuttonn {
+    color: #ff9f00 !important;
+    width: 150px !important;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.producthead {
+    color: #323f4b;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.productpar {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.producthighlight {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.productbutton-inside {
+    border-width: 1px !important;
+    border-color: black !important;
+    font-weight: bold !important;
+}
+
+.offertotal-page {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    width: 100%;
+    background-size: cover;
+}
+
+.offerimage {
+    height: 300px;
+    width: 300px;
+}
+
+.offerimages {
+    height: 500px;
+    width: 100%;
+}
+
+.offereading1 {
+    color: #ad2167;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.offerp {
+    color: white;
+    font-size: 25px;
+}
+
+.offerparaa {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.offerimagetext {
+    height: 150px;
+    width: 100%;
+}
+
+.offerimagedd {
+    height: 100px;
+    width: 100px;
+}
+
+.blogtotalpage {
+    width: 100%;
+    background-color: white;
+    padding: 20px;
+}
+
+.trending-blogs {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.blog-containerr {
+    width: 100%;
+}
+
+.fountain-pens-image {
+    width: 100%;
+}
+
+.blogheadings {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.blogh1 {
+    color: #959ead;
+    font-size: 25px;
+}
+
+.blogp {
+    color: #959ead;
+    font-size: 20px;
+}
+
+.blogarrow {
+    color: #ff9f00;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.blogicon {
+    color: #ff9f00;
+}
+
+.dealtotal-page {
+    width: 100%;
+    background-color: #f5f7fa;
+    background-size: cover;
+    padding: 20px;
+}
+
+.dealmain-heading {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.dealcontainers {
+    background-color: white;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.dealsub-heading {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.dealimage {
+    height: 100%;
+    width: 100%;
+    border-width: 0px;
+    border-radius: 10px;
+}
+
+.dealheadingsss {
+    color: #1f2933;
+    font-size: 20px;
+    text-align: center;
+}
+
+.dealarrows {
+    color: #ff9f00;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.dealicon {
+    color: #ff9f00;
+}
+
+.dealimagesssss {
+    height: 50%;
+    width: 100%;
+    border-width: 0px;
+    border-radius: 20px;
+}
+
+.contacttotalpage {
+    background-color: #f5f7fa;
+    width: 100%;
+}
+
+.contacth1 {
+    color: #183b56;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.contactbutton {
+    color: #ff9f00 !important;
+    border-color: #ff9f00 !important;
+    font-size: 25px;
+    background-color: transparent;
+}
+
+.footertotalpage {
+    background-color: #0d2436;
+    width: 100%;
+    padding: 20px;
+}
+
+.footerimage {
+    height: 80px;
+    width: 200px;
+}
+
+.footercontainess {
+    border-radius: 200px;
+    height: 50px;
+    width: 50px;
+    border-width: 0px;
+    background-color: #152c3e;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footericons {
+    padding: 10px !important;
+    height: 40px !important;
+    width: 40px !important;
+    color: #5a7184 !important;
+}
+
+.footerh1 {
+    color: #5a7184;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.footerp {
+    color: #5a7184;
+    font-size: 20px;
+    font-weight: normal;
+    padding: 20px;
+}
+
+.footerline {
+    background-color: #5a7184;
+    width: 100%;
+    height: 1px;
+}
+
+.contactUnorderedList{
+    list-style-type: none;
+}
